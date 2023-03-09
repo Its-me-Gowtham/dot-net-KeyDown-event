@@ -1,0 +1,20 @@
+C:\Users\chinn\source\repos\KeyDown event\KeyDown event\bin\Debug\net6.0-windows\KeyDown event.exe
+C:\Users\chinn\source\repos\KeyDown event\KeyDown event\bin\Debug\net6.0-windows\KeyDown event.deps.json
+C:\Users\chinn\source\repos\KeyDown event\KeyDown event\bin\Debug\net6.0-windows\KeyDown event.runtimeconfig.json
+C:\Users\chinn\source\repos\KeyDown event\KeyDown event\bin\Debug\net6.0-windows\KeyDown event.dll
+C:\Users\chinn\source\repos\KeyDown event\KeyDown event\bin\Debug\net6.0-windows\KeyDown event.pdb
+C:\Users\chinn\source\repos\KeyDown event\KeyDown event\obj\Debug\net6.0-windows\KeyDown event.csproj.AssemblyReference.cache
+C:\Users\chinn\source\repos\KeyDown event\KeyDown event\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\chinn\source\repos\KeyDown event\KeyDown event\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\chinn\source\repos\KeyDown event\KeyDown event\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\chinn\source\repos\KeyDown event\KeyDown event\obj\Debug\net6.0-windows\KeyDown event_MarkupCompile.cache
+C:\Users\chinn\source\repos\KeyDown event\KeyDown event\obj\Debug\net6.0-windows\KeyDown event.g.resources
+C:\Users\chinn\source\repos\KeyDown event\KeyDown event\obj\Debug\net6.0-windows\KeyDown event.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chinn\source\repos\KeyDown event\KeyDown event\obj\Debug\net6.0-windows\KeyDown event.AssemblyInfoInputs.cache
+C:\Users\chinn\source\repos\KeyDown event\KeyDown event\obj\Debug\net6.0-windows\KeyDown event.AssemblyInfo.cs
+C:\Users\chinn\source\repos\KeyDown event\KeyDown event\obj\Debug\net6.0-windows\KeyDown event.csproj.CoreCompileInputs.cache
+C:\Users\chinn\source\repos\KeyDown event\KeyDown event\obj\Debug\net6.0-windows\KeyDown event.dll
+C:\Users\chinn\source\repos\KeyDown event\KeyDown event\obj\Debug\net6.0-windows\refint\KeyDown event.dll
+C:\Users\chinn\source\repos\KeyDown event\KeyDown event\obj\Debug\net6.0-windows\KeyDown event.pdb
+C:\Users\chinn\source\repos\KeyDown event\KeyDown event\obj\Debug\net6.0-windows\KeyDown event.genruntimeconfig.cache
+C:\Users\chinn\source\repos\KeyDown event\KeyDown event\obj\Debug\net6.0-windows\ref\KeyDown event.dll
